@@ -1,6 +1,9 @@
 # Session13_Audio
 AI For Sound
 
+
+### Please find the snapshots of the wave plot and spectogram to be given as input to the speech recognition model.
+
 ![](/images/SoundImage1.png)
 
 ![](/images/SoundImage2.png)
