@@ -13,7 +13,7 @@ AI For Sound
 
 
 
-### Training Snapshot for Speech Recognition:
+### Also find the  Training Snapshot below for Speech Recognition:
 
 
 Num Model Parameters 23705373
