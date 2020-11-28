@@ -1,6 +1,13 @@
 # Session13_Audio
 AI For Sound
 
+![](/images/SoundImage1.png)
+
+![](/images/SoundImage2.png)
+
+![](/images/SoundImage13.png)
+
+
 
 
 ### Training Snapshot for Speech Recognition:
