@@ -5,7 +5,7 @@ AI For Sound
 
 ![](/images/SoundImage2.png)
 
-![](/images/SoundImage13.png)
+![](/images/SoundImage3.png)
 
 
 
